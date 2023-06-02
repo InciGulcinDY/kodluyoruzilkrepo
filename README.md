@@ -20,7 +20,7 @@ code
 ```
 
 ## Contributing
-Accept pull request. For major changes, please open a subject to discuss what you want to change first.
+Accept pull request.For major changes, please open a subject to discuss what you want to change first.
 
 
 ## License
