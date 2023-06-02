@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 The first repository that I created in Kodluyoruz Lessons. You may find both README file and index.html file.
 
-![github](Project image.png)
+![github](image.png)
 
 ## Installation
 Firstly, clone  the project
