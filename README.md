@@ -1,25 +1,28 @@
 # kodluyoruzilkrepo
 The first repository that I created in Kodluyoruz Lessons. You may find both README file and index.html file.
-![](C:\Users\incig\My Projects\Kodluyoruz\kodluyoruzilkrepo\Project image.png)
 
-##Installation
+![github](C:\Users\incig\My Projects\Kodluyoruz\kodluyoruzilkrepo\Project image.png)
+
+## Installation
 Firstly, clone  the project
-[](https://github.com/InciGulcinDY/kodluyoruzilkrepo.git)
 
+'''bash
+https://github.com/InciGulcinDY/kodluyoruzilkrepo.git
+'''
 
-##Usage
+## Usage
 After that, open the project at Visual Studio Code.
 
 For Linux
-'''
+'''linux
 cd kodluyoruzilkrepo
 code 
 '''
 
-##Contributing
+## Contributing
 Accept pull request. For major changes, please open a subject to discuss what you want to change first.
 
 
-##License
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
